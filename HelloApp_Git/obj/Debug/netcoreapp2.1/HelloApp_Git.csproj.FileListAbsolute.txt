@@ -29,3 +29,4 @@ C:\Users\A990848\source\repos\HelloApp\HelloApp_Git\obj\Debug\netcoreapp2.1\Hell
 C:\Users\A990848\source\repos\HelloApp\HelloApp_Git\obj\Debug\netcoreapp2.1\HelloApp_Git.dll
 C:\Users\A990848\source\repos\HelloApp\HelloApp_Git\obj\Debug\netcoreapp2.1\HelloApp_Git.pdb
 C:\Users\A990848\source\repos\HelloApp\HelloApp_Git\obj\Debug\netcoreapp2.1\HelloApp_Git.csproj.CopyComplete
+C:\Users\A990848\source\repos\HelloApp\HelloApp_Git\obj\Debug\netcoreapp2.1\HelloApp_Git.csprojAssemblyReference.cache
